@@ -1,4 +1,4 @@
-# Deep Learning for COVID-19 Diagnoses using Chest Imaging
+# COVID-19 Diagnoses using Chest Imaging
 
 ## Introduction
 
